@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 It's been a long time since I contributed something in github. 
 
 <!--
 **darkmakukudo/darkmakukudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
